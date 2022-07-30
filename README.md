@@ -1,7 +1,7 @@
 ## Someone who needs to be more productive
 Hey there, welcome to The1goit's Github profile, sometimes I get round to doing things.
 
-I am an 18 year old british boi who sometimes makes music, art and does a little programming.
+I am an 19 year old british boi who sometimes makes music, art and does a little programming.
 ## Socials:
 [Soundcloud](https://soundcloud.com/the1goit-official) ||
 [Bandlab](https://www.bandlab.com/the1goit_official) || 
