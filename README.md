@@ -1,9 +1,10 @@
 ## Someone who needs to be more productive
-Hey there, welcome to The1goit's Github profile, sometimes I get round to doing things.
+Hey there, welcome to The1goit's Github profile, sometimes I get round to doing things with this.
 
-I am an 19 year old british boi who sometimes makes music, art and does a little programming.
+I am an 19 year old british boi who sometimes makes music, art and does a little programming, mostly webdev. 
 ## Socials:
-[Soundcloud](https://soundcloud.com/the1goit-official) ||
+[Site](https://the1goit.netlify.app/) ||
+[Mastodon](https://ravenation.club/@the1goit) ||
 [Bandlab](https://www.bandlab.com/the1goit_official) || 
 [Youtube](https://www.youtube.com/@the1goit)
 <!---
