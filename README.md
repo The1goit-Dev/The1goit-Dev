@@ -3,7 +3,7 @@ Hey there, welcome to The1goit's Github profile, sometimes I get round to doing 
 
 I am an 19 year old british boi who sometimes makes music, art and does a little programming, mostly webdev. 
 ## Socials:
-[Site](https://the1goit.netlify.app/) ||
+[Site](https://the1goit.net) ||
 [Mastodon](https://ravenation.club/@the1goit) ||
 [Bandlab](https://www.bandlab.com/the1goit_official) || 
 [Youtube](https://www.youtube.com/@the1goit)
