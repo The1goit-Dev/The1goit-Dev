@@ -1,7 +1,7 @@
 ## Someone who needs to be more productive
 Hey there, welcome to The1goit's Github profile, sometimes I get round to doing things with this.
 
-I am an 19 year old british boi who sometimes makes music, art and does a little programming, mostly webdev. 
+I am a 20 year old british boi who sometimes makes music, art and does a little programming, mostly webdev. 
 ## Socials:
 [Site](https://the1goit.net) ||
 [Mastodon](https://ravenation.club/@the1goit) ||
