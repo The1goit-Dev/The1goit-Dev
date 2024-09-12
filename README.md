@@ -5,8 +5,8 @@ I am a 20 year old british boi who sometimes makes music, art and does a little 
 ## Socials:
 [Site](https://the1goit.net) ||
 [Fediverse](https://fedia.social/@the1goit) ||
-[Bandlab](https://www.bandlab.com/the1goit_official) || 
-[Youtube](https://www.youtube.com/@the1goit)
+[Youtube](https://www.youtube.com/@the1goit) ||
+[Other Socials](https://linksta.cc/@The1goit)  
 <!---
 The1goit-Dev/The1goit-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
