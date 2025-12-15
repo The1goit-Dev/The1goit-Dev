@@ -1,7 +1,7 @@
 ## Someone who needs to be more productive
 Hey there, welcome to The1goit's Github profile, sometimes I get round to doing things with this.
 
-I am a 20 year old british boi who sometimes makes music, art and does a little programming, mostly webdev. 
+I am a 22 year old who sometimes makes music, art and does a little programming. However, I am slowly moving to Codeberg cause I stand against vibe coding.
 ## Socials:
 [Site](https://the1goit.net) ||
 [Fediverse](https://fedia.social/@the1goit) ||
